@@ -15,3 +15,9 @@
 ### Transfer Learning
 - Feature Extraction
 - Fine Tuning
+
+## Reference
+[1] Golle P . Machine learning attacks against the Asirra CAPTCHA[C]// Proceedings of the 2008 ACM Conference on Computer and Communications Security, CCS 2008, Alexandria, Virginia, USA, October 27-31, 2008. ACM, 2008.
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+https://www.learnopencv.com/keras-tutorial-using-pre-trained-imagenet-models/
+https://www.kaggle.com/c/dogs- vs-cats-redux-kernels-edition/overview/evaluation 
