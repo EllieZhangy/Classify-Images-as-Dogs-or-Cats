@@ -23,4 +23,4 @@ https://blog.keras.io/building-powerful-image-classification-models-using-very-l
 
 https://www.learnopencv.com/keras-tutorial-using-pre-trained-imagenet-models/  
 
-https://www.kaggle.com/c/dogs- vs-cats-redux-kernels-edition/overview/evaluation 
+https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview/evaluation 
