@@ -8,6 +8,7 @@ Data Source: https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edit
 
 ## Methodology
 ### CNN Architecture
+ - Vanila CNN
  - VGG16
  - Interception Net
  - ResNet
