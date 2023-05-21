@@ -6,16 +6,18 @@
 854.51MB Image Data from Kaggle   
 Data Source: https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/data
 
-## Methodology
-### CNN Architecture
- - Vanila CNN
- - VGG16
- - Interception Net
- - ResNet
- - XceptionNet
+## Contents
+### EDA
+### Data Augmentation and Feature Engineering
+### CNN from Scratch
 ### Transfer Learning
-- Feature Extraction
-- Fine Tuning
+ - VGG16 - based 
+ - InterceptionNet - Based
+ - ResNet - Based
+### Fine-Tuning and Regularization
+ - ResNet as an example
+### Run on the Test Data
+### Results and Conclusion
 
 ## Reference
 [1] Golle P . Machine learning attacks against the Asirra CAPTCHA[C]// Proceedings of the 2008 ACM Conference on Computer and Communications Security, CCS 2008, Alexandria, Virginia, USA, October 27-31, 2008. ACM, 2008.  
