@@ -5,6 +5,8 @@
 ## Data
 854.51MB Image Data from Kaggle   
 Data Source: https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/data
+Train folder: 25,000 images of dogs and cats (label as part of the filename). 
+Test folder: 12,500 images without label.
 
 ## Contents
 (More details in the code and pdf file for presentation)
