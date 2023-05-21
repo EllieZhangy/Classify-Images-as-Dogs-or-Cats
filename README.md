@@ -7,6 +7,7 @@
 Data Source: https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/data
 
 ## Contents
+(More details in the code and pdf file for presentation)
 ### Data Preparation and Preprocessing
 ### EDA
 ### Data Augmentation and Feature Engineering
