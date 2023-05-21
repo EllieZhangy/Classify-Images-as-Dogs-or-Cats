@@ -1,6 +1,6 @@
 # Classify-Images-as-Dogs-or-Cats
 
-The project involves a combination of custom CNN architecture and transfer learning techniques, including feature extraction (with different pretrained models) and fine-tuning, to develop a deep learning model for the dogs and cats image classification task.
+**The project involves a combination of custom CNN architecture and transfer learning techniques, including feature extraction (with different pretrained models) and fine-tuning, to develop a deep learning model for the dogs and cats image classification task.**
 
 ## Data
 854.51MB Image Data from Kaggle   
