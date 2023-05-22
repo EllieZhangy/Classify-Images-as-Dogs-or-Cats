@@ -10,7 +10,7 @@ Train folder: 25,000 images of dogs and cats (label as part of the filename).
 Test folder: 12,500 images without label.
 
 ## Contents
-(More details in the code and pdf file for presentation)
+**(More details in the code and pdf file for presentation)**
 ### Data Preparation and Preprocessing
 ### EDA
 ### Data Augmentation and Feature Engineering
