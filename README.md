@@ -17,7 +17,6 @@ Test folder: 12,500 images without label.
 ### CNN from Scratch
 ### Transfer Learning
  - InterceptionNet - Based
- - ResNet - Based
 ### Model Improvement
  - Fine Tuning
  - Regularization
