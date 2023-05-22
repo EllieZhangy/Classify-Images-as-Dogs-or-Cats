@@ -21,7 +21,7 @@ Test folder: 12,500 images without label.
  - Fine Tuning
  - Regularization
  - Hyper-parameter Tuning
-### Run on the Test Data
+### Model Performance
 ### Results and Conclusion
 
 ## Reference
