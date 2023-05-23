@@ -1,6 +1,7 @@
 # Classify-Images-as-Dogs-or-Cats
 
 The project involves a combination of custom CNN architecture , Transfer Learning techniques (InceptionNet as the pretrained models) and model improvement methods, to develop a deep learning solution for the dogs and cats image classification task.
+
 **(More details in the Code.ipynb and Presentation.pdf file, model weights are stored in the json file.)**
 
 ## Data
