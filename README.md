@@ -8,7 +8,7 @@ The project involves a combination of custom CNN architecture , Transfer Learnin
 854.51MB Image Data from Kaggle   
 Data Source: https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/data
 
-Train folder: 25,000 images of dogs and cats (label as part of the filename).   
+Train folder: 25,000 images of dogs and cats (label as part of the filename)
 Test folder: 12,500 images without label.
 
 ## Contents
