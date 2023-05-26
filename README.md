@@ -17,7 +17,7 @@ Test folder: 12,500 images without label.
 ### Data Augmentation and Feature Engineering
 ### CNN from Scratch
 ### Transfer Learning
- - InterceptionNet - Based
+ - InterceptionNet Based
 ### Model Improvement
  - Fine Tuning
  - Regularization
